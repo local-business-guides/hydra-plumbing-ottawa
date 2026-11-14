@@ -23,6 +23,9 @@
 - [Best Water Heater Repair Orleans Ottawa](https://local-business-guides.github.io/hydra-plumbing-ottawa/best-water-heater-repair-orleans-ottawa/): Best Water Heater Repair Orleans Ottawa: Get clear options for your Orleans home. Call Hydra Plumbing at 613-415-9653 to plan your next step.
 - [Plumber Ottawa for Homes and Local Businesses](https://local-business-guides.github.io/hydra-plumbing-ottawa/plumber-ottawa/): Plumber Ottawa help for leaks, drains, and renovation plumbing. Call Hydra Plumbing at 613-415-9653 to discuss your home or business needs today.
 
+## Newsroom
+- [Hydra Plumbing Shares Water Heater Repair Resource for Orleans](https://local-business-guides.github.io/hydra-plumbing-ottawa/news/2026-11-14-hydra-plumbing-shares-water-heater-repair-resource/): Hydra Plumbing has released a guide to water heater repair in Orleans, with related video and audio content for Ottawa-area residents and businesses. (2026-11-14)
+
 ## Pages
 - [Water Heater Repair Orleans in Ottawa, Ontario](https://local-business-guides.github.io/hydra-plumbing-ottawa/): Get practical water heater help from Hydra Plumbing, serving homeowners and businesses across Ottawa. Call +1613-415-9653.
 - [About Hydra Plumbing](https://local-business-guides.github.io/hydra-plumbing-ottawa/about/): About Hydra Plumbing, Ottawa.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/hydra-plumbing-ottawa/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/hydra-plumbing-ottawa/news/rss.xml)
 - [Main resource site](https://hydra-plumbing-ottawa.localwebsites.chatgpt.site)
